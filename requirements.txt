@@ -12,3 +12,7 @@ python-dateutil==2.8.2
 ipython==8.4.0
 matplotlib==3.5.3
 streamlit==1.29.0
+pandas==2.0.2
+plotly==5.18.0
+selenium==4.18.1
+matplotlib==3.5.3
